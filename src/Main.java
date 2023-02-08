@@ -41,7 +41,7 @@ public class Main {
         } else {
             System.out.println("Доставки нет");
         }
-        System.out.println("Задача5");
+        System.out.println("Задача5.");
         int month = 1;
         switch (month) {
             case 12:
